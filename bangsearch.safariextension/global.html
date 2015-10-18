@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title>DuckDuckGo !bang Search</title>
+    <script type="text/javascript">
+      window.onload = function() {
+        safari.application.addEventListener('beforeSearch', function(ev) {
+          var query = ev.query;
+          if (query[0] == '!') {
+            ev.preventDefault();
+            ev.target.url = 'https://duckduckgo.com/?q=' + encodeURIComponent(query);
+          }
+        }, true);
+      }
+    </script>
+  </head>
+</html>
