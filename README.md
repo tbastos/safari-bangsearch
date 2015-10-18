@@ -7,3 +7,4 @@ Otherwise, Safari's current search engine will be used as normal.
 
 This is an effective solution for the lack of a Chrome-style OmniBar in Safari.
 
+Download `bangsearch.safariextz` from the [releases page](https://github.com/tbastos/safari-bangsearch/releases).

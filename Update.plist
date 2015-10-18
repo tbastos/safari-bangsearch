@@ -14,7 +14,7 @@
         <key>CFBundleShortVersionString</key>
         <string>1.0</string>
         <key>URL</key>
-        <string>https://github.com/tbastos/safari-bangsearch</string>
+        <string>https://github.com/tbastos/safari-bangsearch/releases/download/v1.0/bangsearch.safariextz</string>
         <key>Update From Gallery</key>
         <true/>
       </dict>
