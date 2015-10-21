@@ -10,11 +10,11 @@
         <key>Developer Identifier</key>
         <string>7L67N6LXF6</string>
         <key>CFBundleVersion</key>
-        <string>1</string>
+        <string>2</string>
         <key>CFBundleShortVersionString</key>
-        <string>1.0</string>
+        <string>1.0.1</string>
         <key>URL</key>
-        <string>https://github.com/tbastos/safari-bangsearch/releases/download/v1.0/bangsearch.safariextz</string>
+        <string>https://github.com/tbastos/safari-bangsearch/releases/download/v1.0.1/bangsearch.safariextz</string>
         <key>Update From Gallery</key>
         <true/>
       </dict>

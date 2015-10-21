@@ -13,16 +13,16 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
 		<string>global.html</string>
 	</dict>
 	<key>Description</key>
-	<string>Enables DuckDuckGo !bang searches in Safari's location bar.</string>
+	<string>Enables DuckDuckGo !bang commands in Safari's address bar.</string>
 	<key>DeveloperIdentifier</key>
 	<string>7L67N6LXF6</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -30,6 +30,6 @@
 	<key>Update Manifest URL</key>
 	<string>https://raw.githubusercontent.com/tbastos/safari-bangsearch/master/Update.plist</string>
 	<key>Website</key>
-	<string>https://github.com/tbastos/safari-bangsearch</string>
+	<string>http://tbastos.com/project/safari-bangsearch/</string>
 </dict>
 </plist>
